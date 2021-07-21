@@ -7,15 +7,44 @@
 </div>
 
 
+  
 
 <!-- Technologies -->
 <div align="CENTER" > 
   
   <h3> Technologies:</h3>
-  <!--  Twitter  -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&style=flat-square&" alt="Nodejs-img"/>
+  <!--  Javascript  -->
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-img"/>
   </a>
+  
+  <!--  CSS  -->
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-img"/>
+  </a>
+  
+  <!--  Python  -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-img"/>
+  </a>
+  
+  <!--  Typescript  -->
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-img"/>
+  </a>
+  
+  <!--  HTML  -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-img"/>
+  </a>
+  
+  <!--  Mongo  -->
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
+  </a>
+  
+  
+  
   
   <!--  Github  -->
 
