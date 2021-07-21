@@ -1,7 +1,27 @@
 <!-- Introduction -->
-<div align="CENTER"> 
-<img src="" alt="Introductory-gif"/> 
+<div align="CENTER" > 
+  <a href="https://mpmcintyre.web.app" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/MPMcIntyre/personal-readme/master/40-unscreen.gif?token=ARCVZBRU33IDENWFFWYV6STA7BZ3Y" alt="Introductory-gif" width="250"/> 
+  </a>
+  
 </div>
+
+
+
+<!-- Technologies -->
+<div align="CENTER" > 
+  
+  <h3> Technologies:</h3>
+  <!--  Twitter  -->
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&style=flat-square&" alt="Nodejs-img"/>
+  </a>
+  
+  <!--  Github  -->
+
+  
+</div>
+  
 
 <!-- Socialite -->
 <div align="CENTER" > 
@@ -18,8 +38,8 @@
   </a>
   
 </div>
-
-
+  
+  
 <br />
 <div align="CENTER"> 
 <h1> Currently working on:</h1>
