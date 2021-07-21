@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="CENTER" > 
   <a href="https://mpmcintyre.web.app" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/MPMcIntyre/personal-readme/master/40-unscreen.gif?token=ARCVZBRU33IDENWFFWYV6STA7BZ3Y" alt="Introductory-gif" width="250"/> 
+    <img src="https://raw.githubusercontent.com/MPMcIntyre/personal-readme/master/40-unscreen.gif?token=" alt="Introductory-gif" width="250"/> 
   </a>
   
 </div>
