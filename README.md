@@ -34,8 +34,11 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass-img"/>
   </a>
   
-  <br />
-  <br />
+</div>
+<!-- Frameworks -->
+<div align="CENTER" > 
+  
+  <h3> Frameworks:</h3>
   
    <!--  React  -->
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
@@ -59,8 +62,11 @@
   </a>
   
   
-  <br />
-  <br />
+</div>
+<!-- back-end -->
+<div align="CENTER" > 
+  
+  <h3> Back-end/embedded:</h3>
   
   <!--  Node  -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
@@ -103,8 +109,11 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-img"/>
   </a>
   
-  <br />
-  <br />
+</div>
+<!-- OSes -->
+<div align="CENTER" > 
+  
+  <h3> Operating systems:</h3>
  
   
    <!--  Windows  -->
@@ -122,9 +131,7 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos-img"/>
   </a>
   
-  
-  
-  
+
    <!--  Raspberry pi  -->
   <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="raspi-img"/>
