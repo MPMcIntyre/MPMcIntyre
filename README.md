@@ -100,7 +100,7 @@
   
   <!--  Webpack  -->
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack-img"/>
+    <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack-img"/>
   </a>
   
   
