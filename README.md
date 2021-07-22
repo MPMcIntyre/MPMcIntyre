@@ -200,6 +200,8 @@
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/loop.jpg?raw=true" alt="loopstr-img" width="200"/> 
   </a>
   
+<br /><br />
+  
   <p>A React web app integrated with firebase hosting and Real Time Database for a restaurant to allow the client (restaurant admin) to edit, create, and remove menu items, events, and FAQs (Frequently Asked Questions) in real time. Hosting, domain name, and email provided.</p>
   
   
@@ -211,7 +213,7 @@
     <img src="https://github.com/MPMcIntyre/ReacTaurLogo/raw/main/ReacTaurLogo.png?raw=true" alt="ReaTaur-img" width="340"/> 
   </a>
   
-  <p>A small lightweight boiler plate to get started with Tauri integrated with React. </p>
+ <br /> <p>A small lightweight boiler plate to get started with Tauri integrated with React. </p>
   
   <br />
   <br />
