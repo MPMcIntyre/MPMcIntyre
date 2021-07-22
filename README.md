@@ -281,7 +281,7 @@
   
   <!--  Yahoo  -->
   <a href="mailto:mpmcintyre@yahoo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Yahoo-7815F4?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"/> 
+    <img src="https://img.shields.io/badge/Yahoo-7815F4?style=for-the-badge&logo=yahoo&logoColor=white" alt="gmail-img"/> 
   </a>
   
 </div>
