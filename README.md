@@ -267,12 +267,21 @@
   <a href="https://www.linkedin.com/in/michael-mcintyre-29b22257/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-img"/> 
   </a>
-  
-  <!--  GMeet  -->
-  <a href="mailto:mp.mcintyre201@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" alt="gmail-img"/> 
+  <!--  Whatsapp Troll  -->
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-img"/> 
   </a>
   
+  <br />
   
+  <!--  GMail  -->
+  <a href="mailto:mp.mcintyre201@gmail.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"/> 
+  </a>
+  
+  <!--  Yahoo  -->
+  <a href="mailto:mpmcintyre@yahoo.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Yahoo-7815F4?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"/> 
+  </a>
   
 </div>
