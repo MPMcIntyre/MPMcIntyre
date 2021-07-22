@@ -191,7 +191,6 @@
 <br />
 <br />
 <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
-
 <div align="CENTER"> 
   
   <h1> Previous projects:</h1>
