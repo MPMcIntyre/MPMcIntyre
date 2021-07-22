@@ -8,7 +8,7 @@
 
 
   
-
+#
 <!-- Technologies -->
 <div align="CENTER" > 
   
@@ -93,6 +93,11 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++-img"/>
   </a>
   
+  <!--  Matlab  -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
+  </a>
+  
   <!--  Mongo  -->
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
@@ -140,15 +145,57 @@
   
 </div>
 
+   
+#
 
 
+<br />
+<br />
+<br />
+<div align="CENTER"> 
+  
+  <h1> Previous projects:</h1>
+  <br />
+  <h3>Loop St: </h3>
+  <a href="https://loop-st.web.app" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/loop.jpg?raw=true" alt="loopstr-img" width="200"/> 
+  </a>
+  
+  <p>A React web app integrated with firebase hosting and Real Time Database for a restaurant to allow the client (restaurant admin) to edit, create, and remove menu items, events, and FAQs (Frequently Asked Questions) in real time. Hosting, domain name, and email provided.</p>
+  
+  
+  <br />
+  <br />
+  <h3>ReacTaur:</h3>
+  <a href="https://github.com/MPMcIntyre/ReacTaur_JS" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/ReacTaurLogo/raw/main/ReacTaurLogo.png?raw=true" alt="ReaTaur-img" width="340"/> 
+  </a>
+  
+  <p>A small lightweight boiler plate to get started with Tauri integrated with React. </p>
+  
+  <br /> 
+  <br />
+  
+  <h1> Currently working on:</h1>
+  <br />
+  <h3>ReacTron:</h3>
+  <a href="https://github.com/MPMcIntyre/ReacTron" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/ReacTron.png?raw=true" alt="ReacTron-img" width="340"/> 
+  </a>
+  
+  <p width="340">A dynamic boilerplate with minimalist React, linked directly to WebPack and a custom hot relaoder for Electron. Keep your source   code obscure by only publishing minified code, and add almost any package with an up-to-date webpack config. Bundled with scripts to ease prodution, such as source maps for development, but removal thereof when building to propduction. This boilerplate is tailored to keep the development environment as close to production as possible by completely mitigating a dev-server. </p>
+  
+  
   
   
 
+<br />
+<br />
+<br />
 <!-- Socialite -->
 <div align="CENTER" > 
   
-  <h3> Social media:</h3>
+  <h3> Get in contact:</h3>
   <!--  Twitter  -->
   <a href="https://twitter.com/mpmcintyre" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/twitter/follow/mpmcintyre?style=social" alt="twitter-follow-img"/> 
@@ -159,29 +206,22 @@
     <img src="https://img.shields.io/github/followers/MPMcintyre?label=Follow&style=social" alt="github-follow-img"/> 
   </a>
   
+  
   <br />
-    <!--  Github  -->
-  <a href="mpmcintyre.web.app" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-img"/> 
+  
+  <!--  Discord  -->
+  <a href="https://discordapp.com/users/285856001935147009" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-img"/> 
   </a>
   
- 
+  <!--  Instagram  -->
+  <a href="https://www.instagram.com/mpmcintyre" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-img"/> 
+  </a>
+  
+  <!--  LinkedIn  -->
+  <a href="https://www.linkedin.com/in/michael-mcintyre-29b22257/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-img"/> 
+  </a>
   
 </div>
-  
-  
-<br />
-<div align="CENTER"> 
-<h1> Currently working on:</h1>
-</div>
-  <br />
-<div align="CENTER"> 
-<h1> Past projects:</h1>
-</div>
-
-
-- 👋 Hi, I’m Michael, welcome to my Github
-- 👀 I’m interested in software development, specifically using React with Electron, Tauri, or React Native (still to learn).
-- 🌱 I’m currently learning alot... but managing
-- 💞️ I’m looking to collaborate on making Tauri and Electron apps/ boilerplates
-- 📫 Reach out to me by [email](mailto:mp.mcintyre201@gmail.com)
