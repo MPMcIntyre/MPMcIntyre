@@ -98,6 +98,12 @@
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
   </a>
   
+  <!--  Webpack  -->
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack-img"/>
+  </a>
+  
+  
   <!--  Mongo  -->
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
@@ -144,12 +150,12 @@
   
   
 </div>
-   
-#
 
 <br />
 <br />
-<br />
+<img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
+
+
 <div align="CENTER"> 
   
   <h1>About me:</h1>
@@ -184,7 +190,8 @@
 
 <br />
 <br />
-<br />
+<img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
+
 <div align="CENTER"> 
   
   <h1> Previous projects:</h1>
@@ -198,6 +205,7 @@
   
   
   <br />
+  <h1> </h1>
   <br />
   <h3>ReacTaur:</h3>
   <a href="https://github.com/MPMcIntyre/ReacTaur_JS" target="_blank" rel="noreferrer"> 
@@ -206,8 +214,10 @@
   
   <p>A small lightweight boiler plate to get started with Tauri integrated with React. </p>
   
-  <br /> 
   <br />
+  <br />
+  <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
+
   
   <h1> Currently working on:</h1>
   <br />
@@ -221,10 +231,10 @@
   
   
   
+<br />
+<br />
+<img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
 
-<br />
-<br />
-<br />
 <!-- Socialite -->
 <div align="CENTER" > 
   
