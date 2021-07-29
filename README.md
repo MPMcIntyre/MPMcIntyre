@@ -264,7 +264,7 @@
   </a>
   
   <!--  LinkedIn  -->
-  <a href="https://www.linkedin.com/in/michael-mcintyre-29b22257/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/MPMcIntyre/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-img"/> 
   </a>
   <!--  Whatsapp Troll  -->
