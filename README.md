@@ -4,6 +4,11 @@
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/40-unscreen.gif?raw=true=" alt="Introductory-gif" width="340"/> 
   </a>
   
+    <a href="https://mpmcintyre.online" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/qr-code.png?raw=true" alt="QR-code" width="340"/> 
+  </a>
+  
+  
 </div>
 
 
