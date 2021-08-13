@@ -201,18 +201,20 @@
   <h1> Previous projects:</h1>
   <br />
   <h3>Loop St: </h3>
-  <a href="https://loop-st.web.app" target="_blank" rel="noreferrer"> 
+  <a href="https://loopstraat.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/loop.jpg?raw=true" alt="loopstr-img" width="200"/> 
   </a>
+  
   
 <br /><br />
   
   <p>A React web app integrated with firebase hosting and Real Time Database for a restaurant to allow the client (restaurant admin) to edit, create, and remove menu items, events, and FAQs (Frequently Asked Questions) in real time. Hosting, domain name, and email provided.</p>
-  
-  
   <br />
   <h1> </h1>
   <br />
+  
+  
+  
   <h3>ReacTaur:</h3>
   <a href="https://github.com/MPMcIntyre/ReacTaur_JS" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/MPMcIntyre/ReacTaurLogo/raw/main/ReacTaurLogo.png?raw=true" alt="ReaTaur-img" width="340"/> 
@@ -227,6 +229,19 @@
   
   <h1> Currently working on:</h1>
   <br />
+    <h3>GreenRatio: </h3>
+  <a href="https://greenratio.co.za" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/gr-nav-logo.png?raw=true" alt="greenratio-img" width="300"/> 
+  </a>
+  
+  
+<br /><br />
+  
+  <p>A React app integrated with firebase hosting and Real Time Database for a startup company aimed towards providing microgreens at an affordable price. </p>
+  <br />
+  <h1> </h1>
+  <br />
+  
   <h3>ReacTron:</h3>
   <a href="https://github.com/MPMcIntyre/ReacTron" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/ReacTron.png?raw=true" alt="ReacTron-img" width="340"/> 
