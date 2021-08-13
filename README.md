@@ -170,7 +170,7 @@
   <a href="http://www.nwu.ac.za" target="_blank" rel="noreferrer"> 
     North-West University (Potchefstroom campus)
   </a>
-  from 2013 to 2018. Upon completing my degree and not knowing what to do nor what I enjoy, I did what any rational human would do, I did a master's in the same field on the 
+  from 2013 to 2018. Upon completing my degree and not knowing what to do nor what I enjoy, I did what any rational human would do, I did a master's in the same field. My masters was focused on the 
     <a href="https://dspace.nwu.ac.za/handle/10394/36532" target="_blank" rel="noreferrer">
       Modelling and characterisation of a 3D printed peristaltic pump
     </a>
