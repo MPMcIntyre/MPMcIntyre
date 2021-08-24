@@ -6,11 +6,11 @@
   
 </div>
 
-<div align="CENTER" > 
+<!-- <div align="CENTER" > 
   <a href="https://mpmcintyre.online" target="_blank" rel="noreferrer" > 
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/qr-code.png?raw=true" alt="QR-code" width="120" /> 
   </a>
-</div>
+</div> -->
    
 
 #
