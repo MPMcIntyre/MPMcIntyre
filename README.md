@@ -108,12 +108,19 @@
     <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack-img"/>
   </a>
   
-  
+  <br >
   <!--  Mongo  -->
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
   </a>
+  
+  <!--  SQLITE  -->
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite-img"/>
+  </a>
  
+  
+  
   <br />
   <!--  firebase  -->
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
