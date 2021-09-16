@@ -311,4 +311,11 @@
     <img src="https://img.shields.io/badge/Yahoo-7815F4?style=for-the-badge&logo=yahoo&logoColor=white" alt="gmail-img"/> 
   </a>
   
+  <h3>Support me:</h3>
+  
+  <a href="https://www.patreon.com/bePatron?u=61756011" data-patreon-widget-type="become-patron-button">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmpmcintyre%26type%3Dpatrons&style=for-the-badge" />
+  
+  </a>
+  
 </div>
