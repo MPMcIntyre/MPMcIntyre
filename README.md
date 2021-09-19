@@ -43,7 +43,7 @@
 <!-- Frameworks -->
 <div align="CENTER" > 
   
-  <h3> Frameworks:</h3>
+  <h3> Development libraries/frameworks:</h3>
   
    <!--  React  -->
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
@@ -66,8 +66,41 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery-img"/>
   </a>
   
+  <!--  Jest  -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest-img"/>
+  </a>
+  
+  <!--  Express  -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express-img"/>
+  </a>  
   
 </div>
+
+
+<!-- Databases -->
+<div align="CENTER" > 
+  
+  <h3> Databases:</h3>
+  <!--  Mongo  -->
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
+  </a>
+  
+  <!--  SQLITE  -->
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite-img"/>
+  </a>
+ 
+  <!--  Postgresql  -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql-img"/>
+  </a>
+  
+</div>
+
+
 <!-- back-end -->
 <div align="CENTER" > 
   
@@ -107,19 +140,6 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack-img"/>
   </a>
-  
-  <br >
-  <!--  Mongo  -->
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
-  </a>
-  
-  <!--  SQLITE  -->
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite-img"/>
-  </a>
- 
-  
   
   <br />
   <!--  firebase  -->
