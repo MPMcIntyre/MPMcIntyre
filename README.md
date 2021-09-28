@@ -237,7 +237,6 @@
   
   <p>A React web app integrated with firebase hosting and Real Time Database for a restaurant to allow the client (restaurant admin) to edit, create, and remove menu items, events, and FAQs (Frequently Asked Questions) in real time. Hosting, domain name, and email provided.</p>
   <br />
-  <h1> </h1>
   <br />
   
   
@@ -266,8 +265,16 @@
   
   <p>A React app integrated with firebase hosting and Real Time Database for a startup company aimed towards providing microgreens at an affordable price. </p>
   <br />
-  <h1> </h1>
   <br />
+  
+  
+  <h3>Alt_db:</h3>
+  <a href="https://github.com/MPMcIntyre/Alt_db" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/Alt-cutout.png?raw=true" alt="ReacTron-img" width="340"/> 
+  </a>
+  
+  <p width="340">A lightweight wrapper for better-sqlite3 which enables encryption using <a href="https://nodejs.org/api/crypto.html#crypto_cipher_final_outputencoding">node's crypto package</a> with AES-256-cbc (<a href="https://www.section.io/engineering-education/data-encryption-and-decryption-in-node-js-using-crypto/"> example</a>). Encryption is added to individual columns using two secret values namely the `secret` and `vector`, both of which are strings. The default pragma settings have journal set to `WAL` mode for better performance and full synchronisation for better stability.
+</p>
   
   <h3>ReacTron:</h3>
   <a href="https://github.com/MPMcIntyre/ReacTron" target="_blank" rel="noreferrer"> 
