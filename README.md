@@ -18,7 +18,7 @@
 <div align="CENTER" > 
   
   <h3> Web Technologies:</h3>
-
+  
   <!--  Javascript  -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-img"/>
@@ -340,9 +340,15 @@
   
   <h3>Support me:</h3>
   
+  <a href="https://github.com/sponsors/MPMcIntyre" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=<url>" alt="githubSponsors-img"/>
+  </a>
+  
+  <br/>
   <a href="https://www.patreon.com/bePatron?u=61756011" data-patreon-widget-type="become-patron-button">
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmpmcintyre%26type%3Dpatrons&style=for-the-badge" />
-  
   </a>
+  
+
   
 </div>
