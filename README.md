@@ -208,7 +208,7 @@
  ). In March 2021 during the covid-lockdown in South Africa, I decided to take a Udemy course on Web Development, or as it was labeled "The complete 2021 web developer bootcamp". Looking back, it was not all that complete, but it sure was sufficient! 
   </p>
   
-  <p>The course made me realize that I actually really loved coding and that I was an idiot for not realizing this sooner. I should have noticed this when I coded my first calculator on Visual Basic when I was 14 with the guide from a handbook on visual basic stolen from my father (sorry dad!).</p>
+  <p>The course made me realize that I actually really loved coding and that I was an idiot for not realizing this sooner. I should have noticed this when I coded my first calculator on Visual Basic when I was 16 with the guide from a handbook on visual basic stolen from my father (sorry dad!).</p>
   
   <p>In all seriousness, I realized that I might have been happier studying Computer/Electronical engineering in the final year of my Mechanical engineering degree. Not knowing how to get into IT and Computer/Electronical engineering, I decided to do my master's degree at the NWUs school for Electrical, Electronic, and Computer engineering. Allowed to choose the direction of my master's, I aimed it towards robotics and industry 4.0. I ended up creating a 3D peristaltic pump for the mechanical actuation of 3D printed robotic arms, accompanied by a mathematical model on the pulsatile flow rate and pressure response of the pump. I even ended up publishing an 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924424721001710" target="_blank" rel="noreferrer">
