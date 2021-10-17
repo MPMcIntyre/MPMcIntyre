@@ -193,7 +193,7 @@
   <h1>About me:</h1>
   <br />
   <p>
-  I studied Mechanical engineering at the 
+  Due to my interest in science (i.e. Life, the universe, and everything) I studied Mechanical engineering at the 
   <a href="http://www.nwu.ac.za" target="_blank" rel="noreferrer"> 
     North-West University (Potchefstroom campus)
   </a>
