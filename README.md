@@ -216,7 +216,7 @@
     </a>
     on the modeling of the pump.</p>
   
-  <p>Knowing what I like now, I wish to pursue the advancement of industry 4.0, smart manufacturing, and IT and hopefully combine it with Mechanical engineering to keep that part of my life relevent. </p>
+  <p>Knowing what I like now, I wish to pursue the advancement of industry 4.0, smart manufacturing, and IT and combine it with the wonders of science I learnt from my engeneering degrees. </p>
 </div>
 
 
