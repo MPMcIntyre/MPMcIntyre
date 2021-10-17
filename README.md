@@ -214,7 +214,7 @@
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924424721001710" target="_blank" rel="noreferrer">
       article 
     </a>
-    on the modeling of the pump, pretty crazy considering I had no idea what I was doing.</p>
+    on the modeling of the pump.</p>
   
   <p>Knowing what I like now, I wish to pursue the advancement of industry 4.0, smart manufacturing, and IT and hopefully combine it with Mechanical engineering to keep that part of my life relevent. </p>
 </div>
