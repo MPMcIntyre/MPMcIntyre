@@ -270,7 +270,7 @@
   
   <h3>Alt_db:</h3>
   <a href="https://github.com/MPMcIntyre/Alt_db" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/Alt-cutout.png?raw=true" alt="ReacTron-img" width="340"/> 
+    <img src="https://raw.githubusercontent.com/MPMcIntyre/personal-readme/master/alt_db%20logo.png" alt="ReacTron-img" width="340"/> 
   </a>
   
   <p width="340">A lightweight wrapper for better-sqlite3 which enables encryption using <a href="https://nodejs.org/api/crypto.html#crypto_cipher_final_outputencoding">node's crypto package</a> with AES-256-cbc (<a href="https://www.section.io/engineering-education/data-encryption-and-decryption-in-node-js-using-crypto/"> example</a>). Encryption is added to individual columns using two secret values namely the `secret` and `vector`, both of which are strings. The default pragma settings have journal set to `WAL` mode for better performance and full synchronisation for better stability.
