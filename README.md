@@ -131,6 +131,12 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++-img"/>
   </a>
   
+  <!--  Arduino  -->
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino-img"/>
+  </a>
+  
+  
   <!--  Matlab  -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
@@ -151,6 +157,7 @@
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-img"/>
   </a>
+  
   
 </div>
 <!-- OSes -->
@@ -180,8 +187,18 @@
     <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="raspi-img"/>
   </a>
   
-  
 </div>
+
+<!-- OSes -->
+<div align="CENTER" > 
+  
+  <h3> Github stats:</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mpmcintyre" alt="Github-language-stats-img"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmcintyre" alt="Github-language-stats-img"/>
 
 <br />
 <br />
