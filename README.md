@@ -1,11 +1,3 @@
-<div align="CENTER" > 
-  Also known as:<a href="https://github.com/Michael-McIntyre" target="_blank" rel="noreferrer" align="CENTER" > 
-    Michael-McIntyre
-  </a>
-</div>
-
-<br />
-
 <!-- Introduction -->
 <div align="CENTER" > 
   <a href="https://mpmcintyre.online" target="_blank" rel="noreferrer" align="CENTER" > 
