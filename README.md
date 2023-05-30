@@ -50,6 +50,12 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-img"/>
   </a>
   
+   <!--  Flutter  -->
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="react-img"/>
+  </a>
+  
+  
   <!--  Electron  -->
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="electron-img"/>
@@ -137,7 +143,7 @@
   </a>
   
   <!--  Espressif  -->
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> 
+  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif-img"/>
   </a>
   
@@ -164,12 +170,12 @@
   </a>
   
   <!--  AWS  -->
-  <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.aws.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS-img"/>
   </a>
   
   <!--  Vercel  -->
-  <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AWS-img"/>
   </a>
 
