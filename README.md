@@ -163,6 +163,17 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-img"/>
   </a>
   
+  <!--  AWS  -->
+  <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS-img"/>
+  </a>
+  
+  <!--  Vercel  -->
+  <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AWS-img"/>
+  </a>
+
+  
   
 </div>
 <!-- OSes -->
