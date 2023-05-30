@@ -136,7 +136,12 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino-img"/>
   </a>
   
+  <!--  Espressif  -->
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif-img"/>
+  </a>
   
+ 
   <!--  Matlab  -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
