@@ -236,7 +236,7 @@
   <p>Knowing what I like now, I wish to pursue the advancement of industry 4.0, smart manufacturing, and IT and combine it with the wonders of science I learnt from my engeneering degrees. </p>
 </div>
 
-
+<!--
 <br />
 <br />
 <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
@@ -306,6 +306,7 @@
 <br />
 <br />
 <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
+-->
 
 <!-- Socialite -->
 <div align="CENTER" > 
