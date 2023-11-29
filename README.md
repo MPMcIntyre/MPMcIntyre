@@ -4,6 +4,7 @@
     <img src="https://github.com/MPMcIntyre/personal-readme/blob/master/40-unscreen.gif?raw=true=" alt="Introductory-gif" width="340"/> 
   </a>
   
+  
 </div>
 
 <!-- <div align="CENTER" > 
@@ -16,216 +17,210 @@
 #
 <!-- Technologies -->
 <div align="CENTER" > 
-  
-  <h3> Web Technologies:</h3>
-  
+  <h3>Familiar Languages:</h3>
+
+  <!--  C  -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c-img"/>
+  </a>
+  <br />
+  <!--  C++  -->
+  <a href="https://isocpp.org/std/status" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++-img"/>
+  </a>
+  <br />
+  <!--  Python  -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-img"/>
+  </a>
+  <br />
   <!--  Javascript  -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-img"/>
   </a>
+  <br />
+  <!--  Typescript  -->
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-img"/>
+  </a>
+  <br />
+  <!--  Dart  -->
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart-img"/>
+  </a>
+  <br />
+</div>
   
+<div align="CENTER" > 
+  <h3>Less familiar, but worked with:</h3>
+  <!--  Matlab  -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
+  </a>
+  <br />
+  <!--  Rust  -->
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust-img"/>
+  </a>
+  <br />
+</div>
+
+<div align="CENTER" > 
+  <h3> Others:</h3>
   <!--  CSS  -->
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-img"/>
   </a>
-  
+  <br />
   <!--  HTML  -->
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-img"/>
   </a>
-  
+  <br />
   <!--  Sass  -->
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass-img"/>
   </a>
-  
+  <br />
 </div>
 <!-- Frameworks -->
 <div align="CENTER" > 
-  
   <h3> Development libraries/frameworks:</h3>
-  
-   <!--  React  -->
+  <!--  React  -->
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-img"/>
   </a>
-  
-   <!--  Flutter  -->
+  <br />
+  <!--  Flutter  -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="react-img"/>
   </a>
-  
-  
+  <br />
   <!--  Electron  -->
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="electron-img"/>
   </a>
-
-  
-  <!--  React-router  -->
-  <a href="https://reactrouter.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react_router-img"/>
-  </a>
-  
-  <!--  jQuery  -->
-  <a href="https://jquery.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery-img"/>
-  </a>
-  
-  <!--  Jest  -->
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest-img"/>
-  </a>
-  
+  <br />
   <!--  Express  -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express-img"/>
   </a>  
+  <br />
+  <!--  Nextjs  -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="next-img"/>
+  </a>  
+  <br />
+  <!--  Flask  -->
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask-img"/>
+  </a>  
+  <br />
+
+  <h3>Embedded frameworks:</h3>
+   <!--  Arduino  -->
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino-img"/>
+  </a>
+  <br />
+  <!--  Espressif  -->
+  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif-img"/>
+  </a>
+  <br />
   
 </div>
 
 
 <!-- Databases -->
 <div align="CENTER" > 
-  
   <h3> Databases:</h3>
   <!--  Mongo  -->
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-img"/>
   </a>
-  
+  <br />
   <!--  SQLITE  -->
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite-img"/>
   </a>
- 
+  <br />
   <!--  Postgresql  -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql-img"/>
   </a>
+  <br />
+  <!--  Dynamo  -->
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamo-img"/>
+  </a>
+  <br />
+  <!--  Firebase  -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase-db-img"/>
+  </a>
+  <br />
+  
   
 </div>
 
-
 <!-- back-end -->
 <div align="CENTER" > 
+  <h3> Back-end:</h3>
+
   
-  <h3> Back-end/embedded:</h3>
-  
-  <!--  Node  -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs-img"/>
+  <!--  Digital ocean  -->
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digital-ocean-img"/>
   </a>
-  
-  <!--  Python  -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-img"/>
-  </a>
-  
-  <!--  Conda  -->
-  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda-img"/>
-  </a> 
-  
-  <!--  Typescript  -->
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-img"/>
-  </a>
-  
-  <!--  C++  -->
-  <a href="https://isocpp.org/std/status" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++-img"/>
-  </a>
-  
-  <!--  Arduino  -->
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino-img"/>
-  </a>
-  
-  <!--  Espressif  -->
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif-img"/>
-  </a>
-  
- 
-  <!--  Matlab  -->
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab-img"/>
-  </a>
-  
-  <!--  Webpack  -->
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Webpack-84C7E8?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack-img"/>
-  </a>
-  
   <br />
   <!--  firebase  -->
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase-img"/>
   </a>
-  
+  <br />
   <!--  heroku  -->
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-img"/>
   </a>
-  
+  <br />
   <!--  AWS  -->
   <a href="https://www.aws.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS-img"/>
   </a>
-  
+  <br />
   <!--  Vercel  -->
   <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AWS-img"/>
   </a>
 
-  
-  
 </div>
 <!-- OSes -->
 <div align="CENTER" > 
   
   <h3> Operating systems:</h3>
- 
-  
-   <!--  Windows  -->
+  <br />
+  <!--  Windows  -->
   <a href="https://www.microsoft.com/en-za/windows" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="ms-img"/>
   </a>
-  
+  <br />
   <!--  Linux  -->
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux-img"/>
   </a>
-  
+  <br />
   <!--  MacOs  -->
   <a href="https://www.apple.com/macos/big-sur/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos-img"/>
   </a>
-  
-
-   <!--  Raspberry pi  -->
+  <br />
+  <!--  Raspberry pi  -->
   <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="raspi-img"/>
   </a>
-  
 </div>
 
-<!-- OSes -->
-<!-- <div align="CENTER" > 
-  
-  <h3> Github stats:</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mpmcintyre" alt="Github-language-stats-img"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmcintyre" alt="Github-language-stats-img"/>
-
-<br />
-<br />
-<img src="https://github.com/MPMcIntyre/personal-readme/blob/master/banner-mpm-gh-cutout.png?raw=true" alt="raspi-img"/>
- -->
 
 <!-- <div align="CENTER"> 
   
@@ -381,7 +376,7 @@
   <h3>Support me:</h3>
   
   <a href="https://github.com/sponsors/MPMcIntyre" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=<url>" alt="githubSponsors-img"/>
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="githubSponsors-img"/>
   </a>
   
   <br/>
