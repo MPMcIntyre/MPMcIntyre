@@ -339,17 +339,11 @@
     <img src="https://img.shields.io/github/followers/MPMcintyre?label=Follow&style=social" alt="github-follow-img"/> 
   </a>
   
-  
   <br />
   
   <!--  Discord  -->
   <a href="https://discordapp.com/users/285856001935147009" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-img"/> 
-  </a>
-  
-  <!--  Instagram  -->
-  <a href="https://www.instagram.com/mpmcintyre" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-img"/> 
   </a>
   
   <!--  LinkedIn  -->
@@ -362,17 +356,7 @@
   </a>
   
   <br />
-  
-  <!--  GMail  -->
-  <a href="mailto:mp.mcintyre201@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-img"/> 
-  </a>
-  
-  <!--  Yahoo  -->
-  <a href="mailto:mpmcintyre@yahoo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Yahoo-7815F4?style=for-the-badge&logo=yahoo&logoColor=white" alt="gmail-img"/> 
-  </a>
-  
+
   <h3>Support me:</h3>
   
   <a href="https://github.com/sponsors/MPMcIntyre" target="_blank" rel="noreferrer"> 
